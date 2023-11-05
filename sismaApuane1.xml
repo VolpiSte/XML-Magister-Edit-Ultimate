@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.16.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Regione" id="Regione0">
+    <void class="Regione" method="getField">
+     <string>luogo</string>
+     <void method="set">
+      <object idref="Regione0"/>
+      <string>Toscana</string>
+     </void>
+    </void>
+    <void class="Regione" method="getField">
+     <string>provincia</string>
+     <void method="set">
+      <object idref="Regione0"/>
+      <object class="Provincia" id="Provincia0">
+       <void class="Provincia" method="getField">
+        <string>proa</string>
+        <void method="set">
+         <object idref="Provincia0"/>
+         <string>Lucca</string>
+        </void>
+       </void>
+       <void class="Provincia" method="getField">
+        <string>comune</string>
+        <void method="set">
+         <object idref="Provincia0"/>
+         <object class="Comune" id="Comune0">
+          <void class="Comune" method="getField">
+           <string>nome</string>
+           <void method="set">
+            <object idref="Comune0"/>
+            <string>Lucca</string>
+           </void>
+          </void>
+          <void class="Comune" method="getField">
+           <string>proprietaPrivata</string>
+           <void method="set">
+            <object idref="Comune0"/>
+            <int>8</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Regione" id="Regione1">
+    <void class="Regione" method="getField">
+     <string>luogo</string>
+     <void method="set">
+      <object idref="Regione1"/>
+      <string>Toscana</string>
+     </void>
+    </void>
+    <void class="Regione" method="getField">
+     <string>provincia</string>
+     <void method="set">
+      <object idref="Regione1"/>
+      <object class="Provincia" id="Provincia1">
+       <void class="Provincia" method="getField">
+        <string>proa</string>
+        <void method="set">
+         <object idref="Provincia1"/>
+         <string>Massa Carrara</string>
+        </void>
+       </void>
+       <void class="Provincia" method="getField">
+        <string>comune</string>
+        <void method="set">
+         <object idref="Provincia1"/>
+         <object class="Comune" id="Comune1">
+          <void class="Comune" method="getField">
+           <string>nome</string>
+           <void method="set">
+            <object idref="Comune1"/>
+            <string>Massa</string>
+           </void>
+          </void>
+          <void class="Comune" method="getField">
+           <string>proprietaPubblica</string>
+           <void method="set">
+            <object idref="Comune1"/>
+            <int>2</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Regione" id="Regione2">
+    <void class="Regione" method="getField">
+     <string>luogo</string>
+     <void method="set">
+      <object idref="Regione2"/>
+      <string>Toscana</string>
+     </void>
+    </void>
+    <void class="Regione" method="getField">
+     <string>provincia</string>
+     <void method="set">
+      <object idref="Regione2"/>
+      <object class="Provincia" id="Provincia2">
+       <void class="Provincia" method="getField">
+        <string>proa</string>
+        <void method="set">
+         <object idref="Provincia2"/>
+         <string>Pisa</string>
+        </void>
+       </void>
+       <void class="Provincia" method="getField">
+        <string>comune</string>
+        <void method="set">
+         <object idref="Provincia2"/>
+         <object class="Comune" id="Comune2">
+          <void class="Comune" method="getField">
+           <string>nome</string>
+           <void method="set">
+            <object idref="Comune2"/>
+            <string>Pisa</string>
+           </void>
+          </void>
+          <void class="Comune" method="getField">
+           <string>proprietaPrivata</string>
+           <void method="set">
+            <object idref="Comune2"/>
+            <int>4</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Regione" id="Regione3">
+    <void class="Regione" method="getField">
+     <string>luogo</string>
+     <void method="set">
+      <object idref="Regione3"/>
+      <string>Toscana</string>
+     </void>
+    </void>
+    <void class="Regione" method="getField">
+     <string>provincia</string>
+     <void method="set">
+      <object idref="Regione3"/>
+      <object class="Provincia" id="Provincia3">
+       <void class="Provincia" method="getField">
+        <string>proa</string>
+        <void method="set">
+         <object idref="Provincia3"/>
+         <string>Pistoia</string>
+        </void>
+       </void>
+       <void class="Provincia" method="getField">
+        <string>comune</string>
+        <void method="set">
+         <object idref="Provincia3"/>
+         <object class="Comune" id="Comune3">
+          <void class="Comune" method="getField">
+           <string>nome</string>
+           <void method="set">
+            <object idref="Comune3"/>
+            <string>Pistoia</string>
+           </void>
+          </void>
+          <void class="Comune" method="getField">
+           <string>proprietaPubblica</string>
+           <void method="set">
+            <object idref="Comune3"/>
+            <int>5</int>
+           </void>
+          </void>
+          <void class="Comune" method="getField">
+           <string>proprietaPrivata</string>
+           <void method="set">
+            <object idref="Comune3"/>
+            <int>7</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+<void class="Classe" method="getField">
+ <string>nome</string>
+ <void method="set">
+  <void class="Comune" id="Field0" method="getField">
+   <string>classe</string>
+   <void id="Classe0" method="get">
+    <object idref="Comune2"/>
+   </void>
+  </void>
+  <object idref="Classe0"/>
+  <string>Ste3</string>
+ </void>
+</void>
+<void class="Classe" method="getField">
+ <string>nome</string>
+ <void method="set">
+  <void class="Comune" id="Field1" method="getField">
+   <string>classe</string>
+   <void id="Classe1" method="get">
+    <object idref="Comune1"/>
+   </void>
+  </void>
+  <object idref="Classe1"/>
+  <string>Ste2</string>
+ </void>
+</void>
+<void class="Classe" method="getField">
+ <string>nome</string>
+ <void method="set">
+  <void class="Comune" id="Field2" method="getField">
+   <string>classe</string>
+   <void id="Classe2" method="get">
+    <object idref="Comune3"/>
+   </void>
+  </void>
+  <object idref="Classe2"/>
+  <string>Ste4</string>
+ </void>
+</void>
+<void class="Classe" method="getField">
+ <string>nome</string>
+ <void method="set">
+  <void class="Comune" id="Field3" method="getField">
+   <string>classe</string>
+   <void id="Classe3" method="get">
+    <object idref="Comune0"/>
+   </void>
+  </void>
+  <object idref="Classe3"/>
+  <string>Ste1</string>
+ </void>
+</void>
+</java>

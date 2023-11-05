@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sismaApuane>
+    <regione luogo="Toscana">
+        <provincia proa="massaCarrara">
+            <comune nome="Aulla">
+                <proprietaPubblica>0</proprietaPubblica>
+                <proprietaPrivata>8</proprietaPrivata>
+                <classe nome="Ste1"></classe>
+            </comune>
+        </provincia>
+    </regione>
+
+    <regione luogo="Toscana">
+        <provincia proa="MassaCarrara">
+            <comune nome="Bagnone">
+                <proprietaPubblica>2</proprietaPubblica>
+                <proprietaPrivata>0</proprietaPrivata>
+                <classe nome="Ste2"></classe>
+            </comune>
+        </provincia>
+    </regione>
+
+    <regione luogo="Toscana">
+        <provincia proa="Lucca">
+            <comune nome="BagniDiLucca">
+                <proprietaPubblica>0</proprietaPubblica>
+                <proprietaPrivata>4</proprietaPrivata>
+                <classe nome="Ste3"></classe>
+            </comune>
+        </provincia>
+    </regione>
+
+    <regione luogo="EmiliaRomagna">
+        <provincia proa="Ferrara">
+            <comune nome="Cento">
+                <proprietaPubblica>5</proprietaPubblica>
+                <proprietaPrivata>7</proprietaPrivata>
+                <classe nome="Ste4"></classe>
+            </comune>
+        </provincia>
+    </regione>
+
+</sismaApuane>
